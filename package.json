@@ -1,0 +1,25 @@
+{
+  "name": "nodejs-render-aiven-lab",
+  "version": "1.0.0",
+  "description": "Laboratory activity for Node.js deployment using Render and Aiven MySQL",
+  "main": "app.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/casicasmariel-create/nodejs-render-aiven-lab.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/casicasmariel-create/nodejs-render-aiven-lab/issues"
+  },
+  "homepage": "https://github.com/casicasmariel-create/nodejs-render-aiven-lab#readme",
+  "dependencies": {
+    "express": "^4.22.1",
+    "mysql2": "^3.22.1"
+  }
+}
